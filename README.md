@@ -1,7 +1,5 @@
 # Image-Restoration
-:memo: The training data set was received from the Image Colorization and Loss Restoration AI Competition hosted by DACON.
-
-If you are interested in the competition, please refer to the link.
+:memo: The training data set was received from the Image Colorization and Loss Restoration AI Competition hosted by DACON. If you are interested in the competition, please refer to the link.
 
 [DACON](https://dacon.io/competitions/official/236420/overview/description)
 
