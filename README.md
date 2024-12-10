@@ -7,6 +7,7 @@ __> Install__
 ```
 git clone https://github.com/shkids/Image-Restoration.git
 cd Image-Restoration
+pip install -r requirements.txt
 python IR.py
 ```
 
