@@ -37,3 +37,5 @@ Inspired by the paper studied below.
 If you are interested in research, please refer to the paper below.
 
 [U-Net](https://arxiv.org/pdf/1505.04597)
+[FCN](https://arxiv.org/pdf/1411.4038)
+[Deep Image Prior](https://arxiv.org/pdf/1711.10925)
